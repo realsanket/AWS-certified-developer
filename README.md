@@ -1,4 +1,34 @@
 # AWS-certified-Developer - Associate
+- [AWS-certified-Developer - Associate](#aws-certified-developer---associate)
+  * [What is Cloud Computing?](#what-is-cloud-computing-)
+    + [Benefits of Cloud Computing](#benefits-of-cloud-computing)
+    + [Features of Cloud Computing](#features-of-cloud-computing)
+      - [Elasticity vs Scalability](#elasticity-vs-scalability)
+    + [Types of Cloud Computing](#types-of-cloud-computing)
+    + [Types of Cloud Computing Deployment Models](#types-of-cloud-computing-deployment-models)
+  * [AWS 🌤️](#aws----)
+    + [History of AWS 📜](#history-of-aws---)
+    + [AWS Numbers and Facts 🧑🏼‍🏭](#aws-numbers-and-facts--------)
+    + [AWS Global Infrastructure 🌎](#aws-global-infrastructure---)
+    + [AWS Global Infrastructure Map 🗺️](#aws-global-infrastructure-map----)
+  * [AWS Identity and Access Management (IAM) 🔑](#aws-identity-and-access-management--iam----)
+    + [Terminologies 🙋🏻‍♂️](#terminologies--------)
+      - [IAM Entities](#iam-entities)
+      - [IAM Permissions](#iam-permissions)
+      - [IAM Policy Structure](#iam-policy-structure)
+      - [IAM Roles](#iam-roles)
+    + [Password Policy 😵](#password-policy---)
+    + [Multi-Factor Authentication (MFA)🔐](#multi-factor-authentication--mfa---)
+      - [How to enable MFA in AWS? 🤔](#how-to-enable-mfa-in-aws----)
+    + [How Can Users Access AWS? 🤔](#how-can-users-access-aws----)
+      - [AWS Command Line Interface (CLI) 🖥️](#aws-command-line-interface--cli-----)
+        * [How to install AWS CLI? 🤔](#how-to-install-aws-cli----)
+        * [How to configure AWS CLI? 🤔](#how-to-configure-aws-cli----)
+        * [How to use multiple AWS accounts in AWS CLI? 🤔](#how-to-use-multiple-aws-accounts-in-aws-cli----)
+      - [AWS Software Development Kits (SDKs) 🖥️](#aws-software-development-kits--sdks-----)
+        * [How to install AWS SDKs? 🤔](#how-to-install-aws-sdks----)
+
+
 
 ## What is Cloud Computing?
 
